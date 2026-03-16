@@ -82,5 +82,5 @@ Displays letters and remaining trials.
 
 ## Project Documentation
 
-Detailed project description and design diagrams are available in:
+Detailed project description and design diagrams are available in the repository.
 
